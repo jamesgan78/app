@@ -1,5 +1,0 @@
-streamlit
-requests
-huggingface_hub
-tqdm
-opencc-python-reimplemented
